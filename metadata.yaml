@@ -1,5 +1,8 @@
 _repo: Die-Eiks-von-Eichen-Roman-aus-einer-Kleinstadt_67409
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67409-h/images/cover.jpg
 creator:
   author:
     agent_name: Rose, Felicitas
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51452
     wikipedia: https://de.wikipedia.org/wiki/Felicitas_Rose
 description: 'Issued also under title: Ein schlechter kerl.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67409#Die-Eiks-von-Eichen-Roman-aus-einer-Kleinstadt
 gutenberg_issued: '2022-02-15'
 identifiers:
   gutenberg: '67409'
